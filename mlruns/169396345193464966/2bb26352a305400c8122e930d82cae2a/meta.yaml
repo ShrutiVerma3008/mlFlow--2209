@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Sem_5/MLOps/lab3/mlruns/169396345193464966/2bb26352a305400c8122e930d82cae2a/artifacts
+end_time: 1758534983860
+entry_point_name: ''
+experiment_id: '169396345193464966'
+lifecycle_stage: active
+run_id: 2bb26352a305400c8122e930d82cae2a
+run_name: receptive-shark-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758534982997
+status: 3
+tags: []
+user_id: hp

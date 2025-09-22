@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Sem_5/MLOps/lab3/mlruns/169396345193464966/2ecc31f8a6694a1ba0acd6b36e03a461/artifacts
+end_time: 1758535197784
+entry_point_name: ''
+experiment_id: '169396345193464966'
+lifecycle_stage: active
+run_id: 2ecc31f8a6694a1ba0acd6b36e03a461
+run_name: welcoming-snipe-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758535197138
+status: 3
+tags: []
+user_id: hp

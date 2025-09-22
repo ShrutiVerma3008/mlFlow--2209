@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/17f674560255446888283e69740ebe72/artifacts
+end_time: 1758533404527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17f674560255446888283e69740ebe72
+run_name: valuable-carp-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758533404412
+status: 4
+tags: []
+user_id: hp
